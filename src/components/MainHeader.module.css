@@ -22,16 +22,17 @@
     align-items: center;
     gap: 0.5rem;
     padding: 0.75rem 1.5rem;
-    background-color: #a990fb;
-    color: #2a2630;
+    background-color: #90fbb9;
+    color: #385f84;
     border: none;
     border-radius: 4px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
     cursor: pointer;
     font-weight: bold;
     text-decoration: none;
+    transition: .3s;
   }
   
   .button:hover {
-    background-color: #8c6cf7;
+    background-color: #78f76c;
   }
